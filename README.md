@@ -17,7 +17,7 @@ This project demonstrates core shopping cart logic, DOM manipulation, and real-t
 ---
 ## 🎥 Demo
 
-![Shopping Cart Demo](demo/demo.webm)
+![Shopping Cart Demo](demo/demo.mp4)
 
 ---
 
