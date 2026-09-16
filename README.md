@@ -15,6 +15,23 @@ This project demonstrates core shopping cart logic, DOM manipulation, and real-t
 - Dynamic UI updates without page reload
 
 ---
+## 🎥 Demo
+
+![Shopping Cart Demo](demo/demo.webm)
+
+---
+
+## 📸 Screenshots
+
+### Product List
+
+![Shopping Cart - Product List](demo/screenshot-products.png)
+
+### Shopping Cart
+
+![Shopping Cart - Cart View](demo/screenshot-cart.png)
+
+---
 
 ## ⚡ Technologies Used
 
